@@ -1,0 +1,3 @@
+graft mytwit/templates
+graft mytwit/static
+include mytwit/schema.sql
